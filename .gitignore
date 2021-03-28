@@ -1,6 +1,10 @@
 # API Key
 config.py
 
+#random files
+random_numbers.ipynb
+API_practice.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
